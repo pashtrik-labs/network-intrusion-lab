@@ -836,7 +836,7 @@ sniff(prn=detect_attack, store=0)
 - Continuously monitors **live network traffic** passing through the bridge.
 - `store=0` prevents packets from being stored in memory during high-traffic events.
 
-[View Python Script](Home_Lab/Scripts/Blue_Team/ids_monitor.py)
+[View Python Script](Scripts/Blue_Team/ids_monitor.py)
 
 ---
 
